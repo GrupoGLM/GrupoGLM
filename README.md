@@ -3,7 +3,6 @@
 - 🌱 Estamos atualmente cursando o ensino médio
 - 💞️ Buscamos ser colaborativos com todos os outros da turma
 - 📫 Para chegar na gente, basta nos contactar no "grupoetec41@gmail.com"
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fato Engraçado: As cenouras antigamente eram roxas
 
 <!---
